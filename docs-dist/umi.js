@@ -49,7 +49,7 @@
     (n.o = function (e, t) {
       return Object.prototype.hasOwnProperty.call(e, t);
     }),
-    (n.p = '/docs-dist/'),
+    (n.p = '/components-using-react/'),
     n((n.s = 0));
 })({
   '+2a4': function (e, t, n) {
@@ -8087,7 +8087,7 @@
         return a;
       });
     var r = n('YS25'),
-      o = { basename: '/docs-dist' };
+      o = { basename: '/components-using-react/' };
     window.routerBase && (o.basename = window.routerBase);
     var a = Object({ NODE_ENV: 'production' }).__IS_SERVER ? null : Object(r['b'])(o),
       i = function () {

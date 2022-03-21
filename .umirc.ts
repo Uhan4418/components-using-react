@@ -28,8 +28,8 @@ export default defineConfig({
       skipNodeModules: true,
     },
   },
-  base: '/docs-dist',
-  publicPath: '/docs-dist/',
+  base: '/components-using-react/',
+  publicPath: '/components-using-react/',
   history: {
     type: 'hash', // 设置路由模式为 hash 模式，防止部署至 GitHub Pages 后刷新网页后出现 404 的情况发生.
   },
