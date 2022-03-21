@@ -8087,7 +8087,7 @@
         return a;
       });
     var r = n('YS25'),
-      o = { basename: '/components-using-react/' };
+      o = { basename: '/components-using-react/docs-dist/' };
     window.routerBase && (o.basename = window.routerBase);
     var a = Object({ NODE_ENV: 'production' }).__IS_SERVER ? null : Object(r['b'])(o),
       i = function () {
