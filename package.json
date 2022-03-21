@@ -4,8 +4,9 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uhan4418/components-using-react.git",
-    "branch": "master"
+    "url": "git+https://github.com/Uhan4418/components-using-react.git",
+    "branch": "master",
+    "platform": "github"
   },
   "scripts": {
     "start": "dumi dev",
