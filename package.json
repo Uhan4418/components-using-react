@@ -2,6 +2,12 @@
   "private": false,
   "name": "components-using-react",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Uhan4418/components-using-react.git",
+    "branch": "master"
+  },
+
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
