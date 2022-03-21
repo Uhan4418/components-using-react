@@ -29920,7 +29920,7 @@
               exact: !0,
               meta: {
                 filePath: 'src/CountdownButton/index.md',
-                updatedTime: 1647627867331,
+                updatedTime: 1647767851e3,
                 componentName: 'CountdownButton',
                 nav: { title: 'Components', path: '/components' },
                 group: {
@@ -29952,7 +29952,7 @@
               exact: !0,
               meta: {
                 filePath: 'src/Foo/index.md',
-                updatedTime: 1647668794765,
+                updatedTime: 1647767851e3,
                 componentName: 'Foo',
                 nav: { title: 'Components', path: '/components' },
                 group: { title: 'Foo', __fallback: !0, path: '/components/foo' },
@@ -29971,7 +29971,7 @@
               exact: !0,
               meta: {
                 filePath: 'src/RankList/index.md',
-                updatedTime: 1647668794764,
+                updatedTime: 1647767851e3,
                 componentName: 'RankList',
                 nav: { title: 'Components', path: '/components' },
                 group: {
@@ -29998,7 +29998,7 @@
               exact: !0,
               meta: {
                 filePath: 'docs/index.md',
-                updatedTime: 1647668794924,
+                updatedTime: 1647767851e3,
                 hero: {
                   title: 'components-using-react',
                   desc: '<div class="markdown"><p>components-using-react react\u7ad9\u70b9\u5f0f\u7ec4\u4ef6\u5e93\u5f00\u53d1</p></div>',
