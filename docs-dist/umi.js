@@ -49,7 +49,7 @@
     (n.o = function (e, t) {
       return Object.prototype.hasOwnProperty.call(e, t);
     }),
-    (n.p = '/components-using-react/'),
+    (n.p = '/components-using-react/docs-dist/'),
     n((n.s = 0));
 })({
   '+2a4': function (e, t, n) {
@@ -23039,7 +23039,7 @@
             sources: { _: { tsx: u } },
             dependencies: {
               react: { version: '>=16.9.0' },
-              'components-using-react': { version: '1.0.0' },
+              'components-using-react': { version: '1.0.1' },
               antd: { version: '>=4.0.0', css: 'antd/dist/antd.css' },
               'react-dom': { version: '>=16.9.0' },
             },
@@ -23065,7 +23065,7 @@
             },
             dependencies: {
               react: { version: '>=16.9.0' },
-              'components-using-react': { version: '1.0.0' },
+              'components-using-react': { version: '1.0.1' },
               antd: { version: '>=4.0.0', css: 'antd/dist/antd.css' },
               'react-dom': { version: '>=16.9.0' },
             },
@@ -23099,7 +23099,7 @@
             },
             dependencies: {
               react: { version: '>=16.9.0' },
-              'components-using-react': { version: '1.0.0' },
+              'components-using-react': { version: '1.0.1' },
               antd: { version: '>=4.0.0', css: 'antd/dist/antd.css' },
               'react-dom': { version: '>=16.9.0' },
             },
